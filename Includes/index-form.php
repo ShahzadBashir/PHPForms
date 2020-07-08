@@ -11,7 +11,7 @@ if (isset($_GET["submit"])) {
     }
 }
 
-//Get Valus From HTML Form Using GET[""] in PHP
+//Get Valus From HTML Form Using POST[""] in PHP
 
 
 if (isset($_POST["submit2"])) {
