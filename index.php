@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="eng-us">
 
 <head>
     <title>Form Data Processing using Get/Post Method</title>
 </head>
 
 <body>
+
     <form method="GET" action="Includes/index-form.php">
         <label>First Name</label>
         <input type="text" name="fname">
@@ -15,6 +16,7 @@
         <br>
         <input type="submit" value="Submit" name="submit">
     </form>
+
 </body>
 
 </html>
